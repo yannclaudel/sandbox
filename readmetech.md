@@ -1,7 +1,7 @@
 # title
 What do you think?
 Today ?
-this is not a bug
+this is a bug
 ## subtitle
 Add a comment
 ### subsubtitle13
